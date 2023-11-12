@@ -1,0 +1,27 @@
+.custom-input-container {
+    margin-bottom: 10px;
+  }
+  
+  input {
+    border: none;
+    border-bottom: 2px solid #3498db; /* Borde inferior azul */
+    padding: 5px;
+    background-color: #ecf0f1; /* Fondo gris claro */
+    color: #2c3e50; /* Texto gris oscuro */
+    margin-top: 5px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    color: #3498db; /* Texto azul */
+
+    .app-container {
+        background-color: #ecf0f1; /* Fondo gris claro para la aplicación */
+        padding: 20px;
+        font-family: 'Arial', sans-serif;
+        color: #2c3e50; /* Texto gris oscuro */
+      }
+      
+  }
+  
